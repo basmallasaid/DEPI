@@ -1,0 +1,16 @@
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.sourcelink.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\refint\Task2.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day2\Task2_sol\Task2\obj\Debug\net5.0\ref\Task2.dll

@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f4ff;
+}
+
+.container {
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    height: auto;
+    width: 70%; 
+    gap: 20px; 
+}
+
+.result, .summary {
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+}
+
+.result {
+    background: linear-gradient(135deg, #7755f0, #4e68fc);
+    color: #fff;
+    text-align: center;
+}
+.result p {
+    font-size: 1rem;
+    opacity: 0.8;
+    margin-bottom: 20px;
+  }
+  .result h2 {
+    font-size: 1.2rem;
+    margin: 40px 0px;
+  }
+.summary {
+    background: #fff;
+}
+
+.score {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.score_txt {
+    margin-top: 70px;
+}
+
+.category {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.category_reaction, .category_memory, .category_verbal, .category_visual {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.category_reaction {
+    background-color: #f9baba45;
+}
+
+.category_memory {
+    background-color: #f8dfa954;
+}
+
+.category_verbal {
+    background-color: #aeefd94d;
+}
+
+.category_visual {
+    background-color: #b1c4f944;
+}
+
+.button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background: rgb(40, 40, 74);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.3s;
+    width: 300px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.button button:hover {
+    background: rgb(69, 69, 147);
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+        height: auto; 
+    }
+
+    .result, .summary {
+        width: 100%; 
+    }
+}

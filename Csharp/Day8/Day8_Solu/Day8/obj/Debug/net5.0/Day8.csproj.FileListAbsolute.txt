@@ -1,0 +1,16 @@
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.exe
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.deps.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.runtimeconfig.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.runtimeconfig.dev.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\bin\Debug\net5.0\Day8.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.AssemblyInfoInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.AssemblyInfo.cs
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.csproj.CoreCompileInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.sourcelink.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\refint\Day8.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\Day8.genruntimeconfig.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day8\Day8_Solu\Day8\obj\Debug\net5.0\ref\Day8.dll

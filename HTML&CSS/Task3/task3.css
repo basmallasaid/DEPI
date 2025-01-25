@@ -1,0 +1,37 @@
+body {
+  background-color: #f5f5f5;
+  font-family: 'Arial', sans-serif;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.purple {
+  background-color: #6b47dc;
+  color: #fff;
+}
+
+.yellow {
+  background-color: #ffc857;
+  color: #333;
+
+}
+
+h4, h2 {
+  font-weight: bold;
+}
+
+img {
+  border-radius: 8px;
+}
+*{
+  margin: none;
+  padding: none;
+}
+
+

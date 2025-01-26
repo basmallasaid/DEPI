@@ -1,13 +1,36 @@
 ﻿using System;
+using System.Collections.Generic;
 using Day8.Abstract;
 using Day8.Inheritance;
 using Day8.Interface;
 using Day8.Struct;
+using Shape = Day8.Interface.Shape;
 
 namespace Day8
 {
     internal class Program
     {
+        #region Sorting part2 (Shape Hierarch)
+        public static void SelectionSort(double[] numbers)
+        {
+            int n = numbers.Length;
+            for (int i = 0; i < n - 1; i++)
+            {
+                int minIndex = i;
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (numbers[j] < numbers[minIndex])
+                    {
+                        minIndex = j;
+                    }
+                }
+              
+                double temp = numbers[minIndex];
+                numbers[minIndex] = numbers[i];
+                numbers[i] = temp;
+            }
+        }
+        #endregion
         static void Main()
         {
             #region Part 1
@@ -74,12 +97,12 @@ namespace Day8
             #endregion
 
             #region Q7 interface ILogger 
-            ConsoleLogger consoleLogger = new ConsoleLogger();
-            consoleLogger.Log();//class
-            ILogger logger = new ConsoleLogger();
-            logger.Log();//class
-            ILogger logger1 = new Helper();
-            logger1.Log();//interface
+            //ConsoleLogger consoleLogger = new ConsoleLogger();
+            //consoleLogger.Log();//class
+            //ILogger logger = new ConsoleLogger();
+            //logger.Log();//class
+            //ILogger logger1 = new Helper();
+            //logger1.Log();//interface
 
             #endregion
 
@@ -99,6 +122,44 @@ namespace Day8
             #endregion
 
             #region Part 2
+            #region  IShapeSeries
+            //Console.WriteLine("Square Series:");
+            //IShapeSeries squareSeries = new SquareSeries();
+            //ShapePrinter.PrintTenShapes(squareSeries);
+            //Console.WriteLine("Circle Series:");
+            //IShapeSeries circle= new CircleSeries();
+            //ShapePrinter.PrintTenShapes(circle);
+
+            //    var shapes = new List<Shape>
+            //{
+            //    new Shape("Square",66),
+            //    new Shape("Circle", 20.5),
+            //    new Shape("Rectangle", 29),
+            //    new Shape("Square", 36),
+            //    new Shape("Circle", 49)
+            //};
+
+            //    ShapePrinter.PrintSortedShapes(shapes);
+            #endregion
+
+            #region Shape Hierarchy(abstract Geometric)
+        //    List<GeometricShape> shapes = new List<GeometricShape>
+        //{
+        //    new Triangle(5, 10),
+        //    new Triangle(6, 8),
+        //    new Rectanglee(4, 7),
+        //    new Rectanglee(10, 3)
+        //};
+
+        //    Console.WriteLine("Shapes and their properties:");
+        //    foreach (var shape in shapes)
+        //    {
+        //        Console.WriteLine($"Shape: {shape.GetType().Name}, Area: {shape.CalculateArea()}, Perimeter: {shape.Perimeter}");
+        //    }
+
+
+            #endregion
+
             #endregion
 
 

@@ -1,0 +1,16 @@
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.exe
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.deps.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.runtimeconfig.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.runtimeconfig.dev.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\bin\Debug\net5.0\Linq01.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.AssemblyInfoInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.AssemblyInfo.cs
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.csproj.CoreCompileInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.sourcelink.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\refint\Linq01.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\Linq01.genruntimeconfig.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Linq\Linq01_Solu\Linq01\obj\Debug\net5.0\ref\Linq01.dll

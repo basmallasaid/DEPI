@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\models\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\models\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\mvc_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\mvc_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day1\\mvc_app_solu\\mvc_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA971C-0DB6-4E1D-B92C-D20D1B6ACCAE}|MVC_APP\\MVC_APP.csproj|solutionrelative:mvc_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVC_APP",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\MVC_APP.csproj",
+              "RelativeDocumentMoniker": "MVC_APP\\MVC_APP.csproj",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\MVC_APP.csproj",
+              "RelativeToolTip": "MVC_APP\\MVC_APP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T20:43:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC_APP\\Views\\Student\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeToolTip": "MVC_APP\\Views\\Student\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T15:04:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Views\\Student\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "MVC_APP\\Views\\Student\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Views\\Student\\ShowAll.cshtml",
+              "RelativeToolTip": "MVC_APP\\Views\\Student\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T14:19:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC_APP\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC_APP\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:04:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Models\\StudentBL.cs",
+              "RelativeDocumentMoniker": "MVC_APP\\Models\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Models\\StudentBL.cs",
+              "RelativeToolTip": "MVC_APP\\Models\\StudentBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:12:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_APP\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Models\\Student.cs",
+              "RelativeToolTip": "MVC_APP\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:08:06.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_APP\\Program.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day1\\MVC_APP_Solu\\MVC_APP\\Program.cs",
+              "RelativeToolTip": "MVC_APP\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:28:53.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

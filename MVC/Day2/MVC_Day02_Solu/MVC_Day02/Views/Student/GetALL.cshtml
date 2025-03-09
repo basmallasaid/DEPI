@@ -1,0 +1,30 @@
+﻿@using MVC_Day02.Models.LMS_System
+@model List<Student> 
+@{
+    ViewData["Title"] = "Student GetALL";
+}
+<h1>GetALL</h1>
+<table class="table table-bordered table-hover">
+    <tr class="bg-dark text-light">
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>DepartmentId</th>
+    </tr>
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.Id</td>
+            <td>@i.Name</td>
+            <td>@i.Age</td>
+            <td>@i.DepartmentId</td>
+            
+        </tr>
+    }
+</table>
+<style>
+    table{
+        text-align:center;
+    }
+</style>
+

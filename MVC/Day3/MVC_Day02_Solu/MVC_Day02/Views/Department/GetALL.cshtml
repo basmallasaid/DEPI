@@ -1,0 +1,28 @@
+﻿@using MVC_Day02.Models.LMS_System
+@model List<Department>
+@{
+    ViewData["Title"] = "GetALL";
+}
+
+<h1>GetALL</h1>
+<table class="table table-bordered table-hover">
+    <tr class="bg-dark text-light">
+        <th>Id</th>
+        <th>Name</th>
+        <th>MgrName</th>
+    </tr>
+    @foreach (var item in Model){
+    <tr>
+        
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.MgrName</td>
+        
+    </tr>
+    }
+</table>
+<style>
+    table {
+        text-align: center;
+    }
+</style>

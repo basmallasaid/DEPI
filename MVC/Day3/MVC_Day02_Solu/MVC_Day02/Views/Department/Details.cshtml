@@ -1,0 +1,14 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-text">Dept Id:@Model.Id</h5>
+        <h5 class="card-title">Dept Name:@Model.Name</h5>
+        <h5 class="card-subtitle mb-2 text-body-secondary">MgrName: @Model.MgrName</h5>
+    </div>
+</div>
+

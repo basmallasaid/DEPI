@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Azure;
+using Microsoft.AspNetCore.Mvc;
 using MVC_Day02.Models.LMS_System;
 using MVC_Day02.ViewModel;
 
@@ -15,10 +16,32 @@ namespace MVC_Day02.Controllers
             
             return View("GetALL",DeptListModel);
         }
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View("Add");
+        }
+
         public IActionResult Details(int id)
         {
             Department DeptModel = DeptBl.Details(id);
             return View("Details", DeptModel);
+        }
+
+        // /Department/SaveAdd?Name=bbb&MrgName=ghg
+        [HttpPost]
+        public IActionResult SaveAdd(Department NewDeptFromRes)
+        {
+           DepartmentBL deptBl = new DepartmentBL();
+            if (NewDeptFromRes.Name != null)
+            {
+                
+                deptBl.AddDept(NewDeptFromRes);
+                return RedirectToAction(nameof(GetALL));
+            }
+
+            return View("Add",NewDeptFromRes);
+
         }
         public IActionResult DetailsVM(int id)
         {

@@ -18,6 +18,7 @@ namespace MVC_Day02.Models.LMS_System
             Department dept = context.Departments
                 .Include(D => D.Students)
                 .FirstOrDefault(d => d.Id == id);
+             return dept;
 
             //if (dept == null) ///way2
             //{
@@ -35,7 +36,15 @@ namespace MVC_Day02.Models.LMS_System
             //    DeptState = DeptState,
             //    StudentName = studentName
             //};
-            return dept;
+
         }
+        public void AddDept(Department DeptSent)
+        { //Memory
+            context.Departments.Add(DeptSent);
+            //DB
+            context.SaveChanges();
+        }
+
+
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.exe
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.deps.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.runtimeconfig.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.runtimeconfig.dev.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\bin\Debug\net5.0\Day4.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.AssemblyInfoInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.AssemblyInfo.cs
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.csproj.CoreCompileInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.sourcelink.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\refint\Day4.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\Day4.genruntimeconfig.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day4\Day4_solu\Day4\obj\Debug\net5.0\ref\Day4.dll

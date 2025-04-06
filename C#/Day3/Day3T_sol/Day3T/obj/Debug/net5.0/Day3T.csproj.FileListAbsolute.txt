@@ -1,0 +1,16 @@
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.exe
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.deps.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.runtimeconfig.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.runtimeconfig.dev.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\bin\Debug\net5.0\Day3T.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.AssemblyInfoInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.AssemblyInfo.cs
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.csproj.CoreCompileInputs.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.sourcelink.json
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\refint\Day3T.dll
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.pdb
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\Day3T.genruntimeconfig.cache
+C:\Users\basmala\OneDrive\المستندات\Full .net(رواد)\C#\git\DEPI\Csharp\Day3\Day3T_sol\Day3T\obj\Debug\net5.0\ref\Day3T.dll

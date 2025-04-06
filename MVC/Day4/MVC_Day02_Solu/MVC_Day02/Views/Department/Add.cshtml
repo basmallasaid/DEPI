@@ -1,0 +1,30 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Add";
+    // Layout = "_MyLayout";
+}
+@* @section header{ *@
+@*     <h3>Hello Header</h3> *@
+@* } *@
+
+<h1>Add</h1>
+
+<form action="/Department/SaveAdd" method="post">
+   <div>
+       <label>Name</label>
+        <input type="text" name="Name" value="@Model?.Name" id="Name" class="form form-control"/>
+   </div>
+    <div>
+    <label>MangerName </label>
+        <input type="text" name="MgrName" value="@Model?.MgrName" id="MgrName" class="form form-control" />
+    </div>
+    <br />
+    <input type="submit"  value="Create" class="btn btn-primary" />
+   </form>
+   <br />
+<a href="/Department/GetALL" class="btn btn-dark">Back</a>
+
+@* @section Footer{ *@
+@*     <h3>Hello Footer</h3> *@
+
+@* } *@

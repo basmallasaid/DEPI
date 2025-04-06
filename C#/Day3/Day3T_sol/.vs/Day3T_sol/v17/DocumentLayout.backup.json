@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day3\\Day3T_sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513B4D0D-A489-4BEE-AC03-A91DD585C0F0}|Day3T\\Day3T.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day3\\day3t_sol\\day3t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513B4D0D-A489-4BEE-AC03-A91DD585C0F0}|Day3T\\Day3T.csproj|solutionrelative:day3t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\day03\\Demos\\Day 03 G02 Solution\\Day 03 G02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\Day02\\Day02\\Demos\\Day02 G02 Solurtion\\Day02 G02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513B4D0D-A489-4BEE-AC03-A91DD585C0F0}|Day3T\\Day3T.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day3\\day3t_sol\\day3t\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513B4D0D-A489-4BEE-AC03-A91DD585C0F0}|Day3T\\Day3T.csproj|solutionrelative:day3t\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\day03\\Demos\\Day 03 G02 Solution\\Day 03 G02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\day03\\Demos\\Day 03 G02 Solution\\Day 03 G02\\Program.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\day03\\Demos\\Day 03 G02 Solution\\Day 03 G02\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\day03\\Demos\\Day 03 G02 Solution\\Day 03 G02\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:38:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day3\\Day3T_sol\\Day3T\\Point.cs",
+              "RelativeDocumentMoniker": "Day3T\\Point.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day3\\Day3T_sol\\Day3T\\Point.cs",
+              "RelativeToolTip": "Day3T\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:16:58.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\Day02\\Day02\\Demos\\Day02 G02 Solurtion\\Day02 G02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Day02\\Day02\\Demos\\Day02 G02 Solurtion\\Day02 G02\\Program.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\Day02\\Day02\\Demos\\Day02 G02 Solurtion\\Day02 G02\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Day02\\Day02\\Demos\\Day02 G02 Solurtion\\Day02 G02\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:09:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day3\\Day3T_sol\\Day3T\\Program.cs",
+              "RelativeDocumentMoniker": "Day3T\\Program.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day3\\Day3T_sol\\Day3T\\Program.cs*",
+              "RelativeToolTip": "Day3T\\Program.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwKEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:35:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

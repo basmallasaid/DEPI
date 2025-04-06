@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\pointtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\pointtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\csharp\\day6\\day6_solu\\day6\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F40281-722E-4A35-B870-35372EEF8952}|Day6\\Day6.csproj|solutionrelative:day6\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Enemy.cs",
+              "RelativeDocumentMoniker": "Day6\\Enemy.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Enemy.cs",
+              "RelativeToolTip": "Day6\\Enemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:44:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Program.cs",
+              "RelativeDocumentMoniker": "Day6\\Program.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Program.cs*",
+              "RelativeToolTip": "Day6\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:12:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Employee.cs",
+              "RelativeDocumentMoniker": "Day6\\Employee.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Employee.cs",
+              "RelativeToolTip": "Day6\\Employee.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:50:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Point.cs",
+              "RelativeDocumentMoniker": "Day6\\Point.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\Point.cs",
+              "RelativeToolTip": "Day6\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:13:41.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointTwo.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\PointTwo.cs",
+              "RelativeDocumentMoniker": "Day6\\PointTwo.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\PointTwo.cs",
+              "RelativeToolTip": "Day6\\PointTwo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:20:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\TypeA.cs",
+              "RelativeDocumentMoniker": "Day6\\TypeA.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\Csharp\\Day6\\Day6_solu\\Day6\\TypeA.cs",
+              "RelativeToolTip": "Day6\\TypeA.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:16:13.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

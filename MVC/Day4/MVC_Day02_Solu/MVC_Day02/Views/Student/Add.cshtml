@@ -1,0 +1,43 @@
+﻿@model Student
+@{
+    ViewData["Title"] ="Add";
+}
+
+<h1>Add</h1>
+<form method="post" asp-action="SaveAdd" asp-controller="Student">
+   
+    <div class="mt-4">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mt-4">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+  <div class="mt-4"> 
+        <label> Department Name</label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.DeptList" class="form form-control">
+            <option value="0">-- Select Department --</option>
+           @*  @foreach (var item in ViewBag.DeptList) 
+            {  
+                   if (Model.Id == item.Id)  
+                   {   
+                       <option value="@item?.Id" selected>@item?.Name</option>   
+                   }   
+                   else   
+                  {   
+                      <option value="@item?.Id">@item?.Name</option>   
+                   }  
+           }  *@
+          </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+      </div>
+
+    <input type="submit" value="Create" class="btn btn-primary mt-4" />
+
+    </form>
+
+<a href="/Student/GetALL" class="btn btn-dark mt-4">Back</a>

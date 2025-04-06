@@ -3,30 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\views\\department\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\department\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\MVC\\Day03\\Day03\\Demos\\G01_MVC_Day01_Solution\\G01_MVC_Day01\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\mvc\\day3\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,21 +49,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\Details.cshtml*",
+              "RelativeToolTip": "MVC_Day02\\Views\\Student\\Details.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T22:05:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetALL.cshtml",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\GetALL.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Student\\GetALL.cshtml",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\GetALL.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Student\\GetALL.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T22:55:46.968Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.Departments [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Departments.sql",
-              "ToolTip": "dbo.Departments [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-10T21:16:36.565Z",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC_Day02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:17:44.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:17:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Department.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Department.cs",
@@ -58,8 +112,7 @@
               "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:59:44.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:59:44.93Z"
             },
             {
               "$type": "Document",
@@ -69,38 +122,37 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\MVC\\Day03\\Day03\\Demos\\G01_MVC_Day01_Solution\\G01_MVC_Day01\\Controllers\\DepartmentController.cs",
               "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\MVC\\Day03\\Day03\\Demos\\G01_MVC_Day01_Solution\\G01_MVC_Day01\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\MVC\\Day03\\Day03\\Demos\\G01_MVC_Day01_Solution\\G01_MVC_Day01\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T19:46:09.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DepartmentBL.cs",
               "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\DepartmentBL.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\DepartmentBL.cs",
               "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\DepartmentBL.cs",
               "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\DepartmentBL.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T19:43:27.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\Add.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Department\\Add.cshtml",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\Add.cshtml*",
-              "RelativeToolTip": "MVC_Day02\\Views\\Department\\Add.cshtml*",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Department\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T19:21:14.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:21:14.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GetALL.cshtml",
               "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\GetALL.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Department\\GetALL.cshtml",
@@ -113,16 +165,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\DepartmentController.cs*",
-              "RelativeToolTip": "MVC_Day02\\Controllers\\DepartmentController.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\MVC\\Day3\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC_Day02\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T14:26:43.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T14:26:43.339Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

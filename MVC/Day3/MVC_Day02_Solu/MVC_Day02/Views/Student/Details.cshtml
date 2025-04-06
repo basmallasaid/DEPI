@@ -24,10 +24,19 @@
 @*} *@
 @* </select> *@
 
-<h3 style="color:@ViewBag.Color">@(ViewBag.Temp-10)</h3>
-<select class="form form-control ">
-    @foreach (var i in ViewBag.List)
-    {
-        <option>@i</option>
-    }
+@* <h3 style="color:@ViewBag.Color">@(ViewBag.Temp-10)</h3> *@
+@* <select class="form form-control"> *@
+@*     @if (ViewBag.List != null) *@
+@*     { *@
+@*         @foreach (var i in ViewBag.List) *@
+@*         { *@
+@*             <option>@i</option> *@
+@*         } *@
+@*     } *@
+@*     else *@
+@*     { *@
+@*         <option disabled>No data available</option> *@
+@*     } *@
+@* </select> *@
+
 

@@ -1,0 +1,23 @@
+﻿@model Department 
+@{
+    ViewData["Title"] = "Edit Department";
+    Layout = "_ModifyLayout";
+}
+
+
+
+<form method="post" asp-action="SaveEdit" asp-controller="Department" asp-route-id="@Model.Id">
+    <div class="mt-4">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mt-4">
+        <label asp-for="MgrName"></label>
+        <input asp-for="MgrName" class="form form-control" />
+        <span asp-validation-for="MgrName" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Save" class="btn btn-primary mt-4" />
+</form>
+<a  asp-action="GetALL" asp-controller="Department" class="btn btn-dark mt-4">Back</a>

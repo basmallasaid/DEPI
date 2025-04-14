@@ -1,0 +1,35 @@
+﻿@using MVC_Day02.Models.LMS_System
+@model List<Department>
+@{
+    ViewData["Title"] = "Department Data";
+    Layout = "_OurLayout";
+}
+
+<a href="/Department/Add" class="btn btn-dark mb-4">New</a>
+<br />
+<table class="table table-bordered ">
+    <tr class="bg-dark text-light">
+        <th>Id</th>
+        <th>Name</th>
+        <th>MgrName</th>
+        <th>Edit</th>
+    </tr>
+    @foreach (var item in Model){
+    <tr>
+        
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.MgrName</td>
+            <td>
+                <a href="/Department/Edit/@item.Id" class="btn" style="cursor: pointer;"><img src="/image/edit.png" /></a>
+            </td>
+            
+        
+    </tr>
+    }
+</table>
+<style>
+    table {
+        text-align: center;
+    }
+</style>

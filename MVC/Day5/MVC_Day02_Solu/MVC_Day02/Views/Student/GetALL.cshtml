@@ -1,0 +1,48 @@
+﻿@using MVC_Day02.Models.LMS_System
+@model List<Student> 
+@{
+    ViewData["Title"] = "Student Data";
+    Layout = "_OurLayout";
+}
+
+<a  asp-action="Add" asp-controllerStudent class="btn btn-dark mb-4">New</a>
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <tr class="bg-dark text-light">
+        <th >Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>DepartmentId</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.Id</td>
+            <td>@i.Name</td>
+            <td>@i.Age</td>
+            <td>@i.DepartmentId</td>
+            <td>
+
+                <a asp-action="Edit" asp-controller="Student" asp-route-id="@i.Id" class="btn" style="cursor: pointer;"><img src="/image/edit.png" /></a>
+            </td>
+            <td>
+                <form asp-controller="Student" asp-action="Delete" asp-route-id="@i.Id" method="post"
+                      onsubmit="return confirm('Are you sure about the deletion?');" style="display:inline;">
+                    <button type="submit" class="btn" style="border: none; background: none; padding: 0; cursor: pointer;">
+                        <img src="/image/delete.png" />
+                    </button>
+                </form>
+            </td>
+
+        </tr>
+    }
+</table>
+<style>
+    table{
+        text-align:center;
+    }
+</style>
+

@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\",
+  "WorkspaceRootPath": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\systemdbcontext\\health_care_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\systemdbcontext\\health_care_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\systemdbcontext\\health_care_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\systemdbcontext\\library_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\systemdbcontext\\library_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\systemdbcontext\\library_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\configuration\\library_system_configuration\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\configuration\\library_system_configuration\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\configuration\\library_system_configuration\\bookentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\configuration\\library_system_configuration\\loanentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\configuration\\library_system_configuration\\loanentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\configuration\\library_system_configuration\\loanentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\models\\health_care_system\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\models\\health_care_system\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\c#\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|c:\\users\\basmala\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\ef\\eftask_solu\\eftask\\models\\health_care_system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E04B48C-DCEE-496A-96B8-8C71B2EFBB2A}|EFTask\\EFTask.csproj|solutionrelative:eftask\\models\\health_care_system\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,76 +44,71 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoanEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
               "RelativeDocumentMoniker": "EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
               "RelativeToolTip": "EFTask\\Configuration\\Library_System_Configuration\\LoanEntityConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T18:14:47.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T18:14:47.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
               "RelativeDocumentMoniker": "EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
               "RelativeToolTip": "EFTask\\Configuration\\Library_System_Configuration\\BookEntityConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T18:14:45.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T18:14:45.983Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Appointment.cs",
               "RelativeDocumentMoniker": "EFTask\\Models\\Health_Care_System\\Appointment.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Appointment.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Appointment.cs",
               "RelativeToolTip": "EFTask\\Models\\Health_Care_System\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:55:44.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T17:55:44.428Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Doctor.cs",
               "RelativeDocumentMoniker": "EFTask\\Models\\Health_Care_System\\Doctor.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Doctor.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Doctor.cs",
               "RelativeToolTip": "EFTask\\Models\\Health_Care_System\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:55:05.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T17:55:05.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Patient.cs",
               "RelativeDocumentMoniker": "EFTask\\Models\\Health_Care_System\\Patient.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Patient.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\Models\\Health_Care_System\\Patient.cs",
               "RelativeToolTip": "EFTask\\Models\\Health_Care_System\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:53:56.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T17:53:56.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Health_Care_SystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
               "RelativeDocumentMoniker": "EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
               "RelativeToolTip": "EFTask\\SystemDbContext\\Health_Care_SystemContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T17:34:10.711Z",
               "EditorCaption": ""
@@ -122,14 +117,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Library_SystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Library_SystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Library_SystemContext.cs",
               "RelativeDocumentMoniker": "EFTask\\SystemDbContext\\Library_SystemContext.cs",
-              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Library_SystemContext.cs",
+              "ToolTip": "C:\\Users\\basmala\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\SystemDbContext\\Library_SystemContext.cs",
               "RelativeToolTip": "EFTask\\SystemDbContext\\Library_SystemContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T14:25:15.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T14:25:15.269Z"
             }
           ]
         }

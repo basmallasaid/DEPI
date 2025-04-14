@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l8HPAkY5jJk=",
+  "dgSpecHash": "F6TVUrBxu74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\basmala\\OneDrive\\المستندات\\Full .net(رواد)\\C#\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\EFTask.csproj",
+  "projectFilePath": "C:\\Users\\basmala\\OneDrive\\المستندات\\Full .net(رواد)\\Git\\git\\DEPI\\EF\\EFTask_Solu\\EFTask\\EFTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basmala\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\basmala\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

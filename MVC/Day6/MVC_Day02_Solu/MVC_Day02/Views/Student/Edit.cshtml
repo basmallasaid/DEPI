@@ -1,0 +1,42 @@
+﻿@* @model StudentWithDeptListViewModel *@
+ @model Student
+@{
+    ViewData["Title"] = "Edit Student";
+    Layout = "_ModifyLayout";
+}
+
+<form method="post"  asp-action="SaveEdit" asp-controller="Student" asp-route-id="@Model.Id">
+    <div class="mt-4">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form form-control" />
+    </div>
+    <div class="mt-4">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form form-control" />
+    </div>
+    <div class="mt-4">
+        <label asp-for="DepartmentId"></label>
+        @* <input type="text" id="DepartmentId" name="DepartmentId" value="@Model.DepartmentId" class="form form-control" /> *@
+        <select asp-for="DepartmentId" class="form form-control" asp-items="ViewBag.DeptList">
+            
+            @* @foreach(var deptitem in Model.DeptList) *@
+            @* { *@
+            @*     if (Model.DepartmentId == deptitem.Id) *@
+            @*     { *@
+            @*         <option value="@deptitem.Id" selected>@deptitem.Name</option> *@
+            @*     } *@
+            @*     else *@
+            @*     { *@
+            @*         <option value="@deptitem.Id">@deptitem.Name</option> *@
+            @*     } *@
+
+            @* } *@
+           
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    
+    <input type="submit" value="Save" class="btn btn-primary mt-4" />
+</form>
+<a href="/Student/GetALL" class="btn btn-dark mt-4">Back</a>
+

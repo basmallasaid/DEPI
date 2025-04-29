@@ -1,0 +1,43 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Courses Data";
+    Layout = "_OurLayout";
+}
+<a asp-action="Add" asp-controller="Course" class="btn btn-dark mb-5">New</a>
+
+<table class="table table-bordered ">
+    <tr class="bg-dark text-light">
+        <th >ID</th>
+        <th>Course Name</th> 
+        <th>Min Degree</th>
+        <th>Degree</th>
+        <th>Department Name</th>
+        <th>Edit</th>
+        <th>Delete</th>
+
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.MinDegree</td>
+            <td>@item.Degree</td>
+            <td>@item.Department.Name</td>
+            <td>
+                <a asp-action="Edit" asp-controller="Course" asp-route-id="@item.Id" class="btn" style="cursor: pointer;"><img src="/image/edit.png" /></a>
+            </td>
+            <td>
+                <form asp-controller="Course" asp-action="Delete" asp-route-id="@item.Id"
+                onsubmit="return confirm('Are you sure about the deletion?');" style="display:inline;">
+                    <button type="submit" class="btn" style="border: none; background: none; padding: 0; cursor: pointer;">
+                        <img src="/image/delete.png" />
+                    </button>
+                </form>
+            </td>
+        </tr>
+
+    }
+
+</table>
+

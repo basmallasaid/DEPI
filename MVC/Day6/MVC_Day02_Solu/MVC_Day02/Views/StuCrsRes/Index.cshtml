@@ -1,0 +1,26 @@
+﻿@model List<StuCrsRes>
+@{
+    ViewData["Title"] = "Result";
+}
+
+<table class="table table-bordered">
+    <tr class="bg-dark text-light">
+        <th>Student Name</th>
+        <th> Course Name</th>
+        <th>Degree</th>
+        <th>Grade</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Student.Name</td>
+            <td>@item.Course.Name</td>
+            <td>@item.Degree</td>
+            <td>@item.Grade</td>
+        </tr>
+    }
+    
+</table>
+
+
+

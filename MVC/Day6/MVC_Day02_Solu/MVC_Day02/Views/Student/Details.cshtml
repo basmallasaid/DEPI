@@ -1,0 +1,42 @@
+﻿@using MVC_Day02.Models.LMS_System
+@model Student
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1>Details</h1>
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Name: @Model.Name</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">Age: @Model.Age</h6>
+        <h6 class="card-subtitle mb-2 text-body-secondary">ID: @Model.Id</h6>
+        <h6 class="card-subtitle mb-2 text-body-secondary">DepartmentId: @Model.DepartmentId</h6>
+    </div>
+</div>
+<hr/>
+<h3>@ViewData["Mes"]</h3>
+
+@* <h3>@(int.Parse(ViewData["Temp"].ToString()) - 10)</h3> @*DataView Can't Casting*@ 
+@* <h3>@ViewData["List"]</h3> *@
+@* <select class="form form-control "> *@
+@*     @foreach (var i in (List<string>)ViewData["List"]){ *@
+@*         <option>@i</option> *@
+@*} *@
+@* </select> *@
+
+@* <h3 style="color:@ViewBag.Color">@(ViewBag.Temp-10)</h3> *@
+@* <select class="form form-control"> *@
+@*     @if (ViewBag.List != null) *@
+@*     { *@
+@*         @foreach (var i in ViewBag.List) *@
+@*         { *@
+@*             <option>@i</option> *@
+@*         } *@
+@*     } *@
+@*     else *@
+@*     { *@
+@*         <option disabled>No data available</option> *@
+@*     } *@
+@* </select> *@
+
+

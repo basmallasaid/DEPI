@@ -1,0 +1,324 @@
+{
+	"info": {
+		"_postman_id": "29768ad3-8b01-43b7-984c-a16b682f7351",
+		"name": "API documentation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44519869"
+	},
+	"item": [
+		{
+			"name": "Collections",
+			"item": [
+				{
+					"name": "Courses",
+					"item": [
+						{
+							"name": "Get all Courses",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:5152/api/Course",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course"
+									],
+									"query": [
+										{
+											"key": "workspace",
+											"value": "{{workspaceId}}",
+											"description": "Optional. A workspace ID.",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Returns a list of all available courses from the system"
+							},
+							"response": []
+						},
+						{
+							"name": "Get Courses",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"crs_Name\": \"React Fundamentals\",\r\n  \"crs_Desc\": \"Intro to React\",\r\n  \"crs_Duration\": 30 ,\r\n  \"departmentId\": 1\r\n}\r\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://localhost:5152/api/Course",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course"
+									],
+									"query": [
+										{
+											"key": "access_key",
+											"value": "{{accessKey}}",
+											"description": "Optional. A collection's read-only access key. Using this query parameter does not require an API key to call the endpoint.",
+											"disabled": true
+										}
+									]
+								},
+								"description": "**create** a new course"
+							},
+							"response": []
+						},
+						{
+							"name": "Get Courses by Name",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "http://localhost:5152/api/Course/WebDevelopment",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course",
+										"WebDevelopment"
+									],
+									"query": [
+										{
+											"key": "access_key",
+											"value": "{{accessKey}}",
+											"description": "Optional. A collection's read-only access key. Using this query parameter does not require an API key to call the endpoint.",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Gets information about a course by Name\n\n(replace 8 with the course Name you want to get info)"
+							},
+							"response": []
+						},
+						{
+							"name": "Get Courses by Id",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:5152/api/Course/8",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course",
+										"8"
+									],
+									"query": [
+										{
+											"key": "access_key",
+											"value": "{{accessKey}}",
+											"description": "Optional. A collection's read-only access key. Using this query parameter does not require an API key to call the endpoint.",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Gets information about a course by id\n\n(replace 8 with the course ID you want to get info)"
+							},
+							"response": []
+						},
+						{
+							"name": "Update a Courses",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"id\": 3,\n  \"crs_Name\": \"React Advanced\",\n  \"crs_Desc\": \"Advanced React Topics\",\n  \"crs_Duration\": 40\n}\n"
+								},
+								"url": {
+									"raw": "http://localhost:5152/api/Course/3",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course",
+										"3"
+									]
+								},
+								"description": "**edit/update** an existing course by ID\n\n(replace 3 with the actual course ID you want to update)"
+							},
+							"response": []
+						},
+						{
+							"name": "Delete a Courses",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:5152/api/Course/10",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "5152",
+									"path": [
+										"api",
+										"Course",
+										"10"
+									]
+								},
+								"description": "**delete** a course\n\n(replace 10 with the course ID you want to delete)"
+							},
+							"response": []
+						}
+					],
+					"description": "API for managing course data: add, get, update, and delete courses."
+				}
+			],
+			"description": "The `/collections` endpoints let you manage your [collections](https://learning.postman.com/docs/sending-requests/intro-to-collections/)."
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "key",
+				"value": "X-API-Key",
+				"type": "string"
+			},
+			{
+				"key": "value",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "https://farming-simulator.pstmn.io"
+		}
+	]
+}

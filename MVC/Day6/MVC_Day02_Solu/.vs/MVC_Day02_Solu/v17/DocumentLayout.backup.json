@@ -3,16 +3,43 @@
   "WorkspaceRootPath": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\controllers\\stucrsrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\stucrsrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\stucrsres\\addstucrs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\stucrsres\\addstucrs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\controllers\\stucrsrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\stucrsrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,14 +70,6 @@
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\department\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,23 +82,8 @@
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|e:\\files\\full .net(\u0631\u0648\u0627\u062F)\\git\\git\\depi\\mvc\\day6\\mvc_day02_solu\\mvc_day02\\models\\lms_system\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AC89E0-043C-48DF-B80A-882F43676475}|MVC_Day02\\MVC_Day02.csproj|solutionrelative:mvc_day02\\models\\lms_system\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,85 +93,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:04:32.999Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddStuCrs.cshtml",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\AddStuCrs.cshtml",
-              "RelativeDocumentMoniker": "MVC_Day02\\Views\\StuCrsRes\\AddStuCrs.cshtml",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\AddStuCrs.cshtml",
-              "RelativeToolTip": "MVC_Day02\\Views\\StuCrsRes\\AddStuCrs.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Department\\Add.cshtml",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T00:25:07.522Z",
+              "WhenOpened": "2025-04-26T19:01:49.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StuCrsResController.cs",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StuCrsResController.cs",
-              "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\StuCrsResController.cs",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StuCrsResController.cs",
-              "RelativeToolTip": "MVC_Day02\\Controllers\\StuCrsResController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T00:07:16.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
-              "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Student.cs",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
-              "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\Student.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T23:59:12.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
-              "RelativeToolTip": "MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T15:07:30.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StuCrsRes.cs",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
-              "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
-              "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T14:57:11.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetALL.cshtml",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\GetALL.cshtml",
-              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Department\\GetALL.cshtml",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\GetALL.cshtml",
-              "RelativeToolTip": "MVC_Day02\\Views\\Department\\GetALL.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T03:46:24.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Department.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Department.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Department.cs",
@@ -179,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Add.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Student\\Add.cshtml",
@@ -191,43 +151,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Add.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Course\\Add.cshtml",
               "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Add.cshtml",
               "RelativeToolTip": "MVC_Day02\\Views\\Course\\Add.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T03:10:54.553Z"
+              "WhenOpened": "2025-04-16T03:10:54.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Course\\Edit.cshtml",
               "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Edit.cshtml",
               "RelativeToolTip": "MVC_Day02\\Views\\Course\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:31:31.156Z"
+              "WhenOpened": "2025-04-16T01:31:31.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "GetALL.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\GetALL.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Student\\GetALL.cshtml",
               "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\GetALL.cshtml",
               "RelativeToolTip": "MVC_Day02\\Views\\Student\\GetALL.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T00:46:18.695Z"
+              "WhenOpened": "2025-04-16T00:46:18.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Student\\Edit.cshtml",
@@ -239,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "dbo.Courses.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Courses.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/./LMS_System/True/SqlTable/dbo.Courses.sql",
@@ -248,25 +211,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "StudentBL.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StudentBL.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\StudentBL.cs",
               "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StudentBL.cs",
               "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\StudentBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:37:01.791Z"
+              "WhenOpened": "2025-04-16T00:37:01.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\StudentController.cs",
               "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StudentController.cs",
               "RelativeToolTip": "MVC_Day02\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T00:35:27.689Z",
               "EditorCaption": ""
@@ -274,6 +238,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "StuCrsRes.cs",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
+              "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
+              "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\StuCrsRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:57:11.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Course\\Index.cshtml",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:21:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetALL.cshtml",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\GetALL.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Department\\GetALL.cshtml",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Department\\GetALL.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\Department\\GetALL.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T03:46:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
+              "RelativeToolTip": "MVC_Day02\\Views\\StuCrsRes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T15:07:30.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "RelativeToolTip": "MVC_Day02\\Models\\LMS_System\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:59:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StuCrsResController.cs",
+              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StuCrsResController.cs",
+              "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\StuCrsResController.cs",
+              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\StuCrsResController.cs",
+              "RelativeToolTip": "MVC_Day02\\Controllers\\StuCrsResController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:07:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\DepartmentController.cs",
@@ -285,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_OurLayout.cshtml",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Shared\\_OurLayout.cshtml",
               "RelativeDocumentMoniker": "MVC_Day02\\Views\\Shared\\_OurLayout.cshtml",
@@ -297,19 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_Day02\\Views\\Course\\Index.cshtml",
-              "ToolTip": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "MVC_Day02\\Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T00:21:45.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "CourseController.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Controllers\\CourseController.cs",
@@ -321,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Course.cs",
               "DocumentMoniker": "E:\\Files\\Full .net(\u0631\u0648\u0627\u062F)\\Git\\git\\DEPI\\MVC\\Day6\\MVC_Day02_Solu\\MVC_Day02\\Models\\LMS_System\\Course.cs",
               "RelativeDocumentMoniker": "MVC_Day02\\Models\\LMS_System\\Course.cs",
